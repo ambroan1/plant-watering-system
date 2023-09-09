@@ -1,4 +1,4 @@
-int waterTime = 3; // for how long the pump will be on [seconds]
+int waterTime = 4; // for how long the pump will be on [seconds]
 int waitTime = 0.5; // how long to wait between watering [minutes]
 int pumpPin = 3; // pin that turns the motor on
 int ledPin = 13; // pin that turns the led on
